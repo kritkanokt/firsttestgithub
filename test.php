@@ -6,6 +6,6 @@
 </head>
 
 <body>
-<?php print "Hello"; ?>
+<?php print "Hello world"; ?>
 </body>
 </html>
