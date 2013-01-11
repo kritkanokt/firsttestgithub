@@ -6,6 +6,10 @@
 </head>
 
 <body>
-<?php print "Hello world"; ?>
+<?php
+//-------------------- Set datetime & Tablename-------------------
+	$dmy = date("d-m-Y"); 
+	echo $dmy;
+?>
 </body>
 </html>
