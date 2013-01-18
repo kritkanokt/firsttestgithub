@@ -11,5 +11,6 @@
 	$dmy = date("d-m-Y"); 
 	echo $dmy;
 ?>
+<p>test<p>
 </body>
 </html>
